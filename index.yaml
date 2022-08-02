@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  endpoints-operator:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2022-08-02T02:11:53.139467595Z"
+    description: kubernetes endpoints balance for outsite apiserver
+    digest: adc03672783ee11c4a1da0697f8bdee40cd5ecd096d383548598cc1ddb37dbf8
+    name: endpoints-operator
+    type: application
+    urls:
+    - https://github.com/mytting/endpoints-operator/releases/download/endpoints-operator-0.2.0/endpoints-operator-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-08-02T02:11:53.139674398Z"
